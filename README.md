@@ -1,16 +1,16 @@
 # conceitosRN
 
-<p>App mostrando os repositórios permitindo curtir. Integração com o back-end NodeJS.</p>
+App mostrando os repositórios permitindo curtir. Integração com o back-end NodeJS.
 
-<p>Para instalar as Dependências</p>
+Para instalar as Dependências
 `$ yarn`
 
-<p>Se for rodar no emulador do iOS</p>
+Se for rodar no emulador do iOS
 `$ cd ios && pod install`
 
-<p>Para rodar </p>
+Para rodar 
 `$ yarn start`
 
-<p>e para rodar no emulador</p>
+e para rodar no emulador
 `$ yarn react-native run-ios --simulator="iPhone 11"`
 
