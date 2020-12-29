@@ -3,22 +3,14 @@
 <p>App mostrando os repositórios permitindo curtir. Integração com o back-end NodeJS.</p>
 
 <p>Para instalar as Dependências</p>
-```
-$ yarn
-```
+`$ yarn`
 
 <p>Se for rodar no emulador do iOS</p>
-```
-$ cd ios && pod install
-```
+`$ cd ios && pod install`
 
 <p>Para rodar </p>
-```
-$ yarn start
-```
+`$ yarn start`
 
 <p>e para rodar no emulador</p>
-```
-$ yarn react-native run-ios --simulator="iPhone 11"
-```
+`$ yarn react-native run-ios --simulator="iPhone 11"`
 
